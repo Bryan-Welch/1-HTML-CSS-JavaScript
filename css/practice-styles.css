@@ -1,0 +1,26 @@
+body {
+    background: #7c82da;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(73, 1, 139);
+    font: 32px Garamond, Helvetica, serif;
+}
+
+table {
+    width: 50%;
+    border: white solid 5px;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+}
